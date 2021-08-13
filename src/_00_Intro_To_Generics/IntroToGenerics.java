@@ -45,6 +45,7 @@ class SomeClass<AnotherTemplate>{
 	//Here the t2t variable can be any object type
 	SomeClass(AnotherTemplate t2){
 		this.t = t2;
+		
 	}
 }
 
